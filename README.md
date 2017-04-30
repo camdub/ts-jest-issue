@@ -1,0 +1,1 @@
+Sample repo to demo https://github.com/kulshekhar/ts-jest/issues/190
